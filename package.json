@@ -1,0 +1,15 @@
+{
+  "name": "function-array",
+  "version": "1.0.1",
+  "description": "hof function to inducing array methods",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arrays Method easy to use"
+  ],
+  "author": "ismail",
+  "license": "ISC"
+}
